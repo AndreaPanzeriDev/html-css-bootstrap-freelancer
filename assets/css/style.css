@@ -9,6 +9,9 @@
 }
 
 
+/*******************************
+      CONTAINER VERDE-ACQUA
+*******************************/
 
 .verde-acqua{
     background-color: #1abc9c;
@@ -20,13 +23,17 @@
 
 .riga{
     height: 4px;
-    width: 20%;
-    background-color: white;
+    width: 15%;
     border-radius: 4px;
     align-self: center;
 }
 
-.fa-star{
-    color: white;
-}
 
+/*******************************
+           PORTFOLIO
+*******************************/
+
+.cards{
+    max-width: 100%;
+    border-radius: 15px;
+}
