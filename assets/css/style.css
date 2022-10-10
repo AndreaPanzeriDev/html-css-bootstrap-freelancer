@@ -50,3 +50,23 @@
     align-self: center;
     margin-top: 3.2rem;
 }
+
+/*******************************
+            FOOTER
+*******************************/
+
+.sfondo{
+    background-color: #3a546d;
+}
+
+.fa-facebook,
+.fa-instagram,
+.fa-google,
+.fa-twitter
+{
+    color: white;
+}
+
+.fit{
+    width: fit-content;
+}
